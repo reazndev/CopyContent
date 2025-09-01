@@ -4,6 +4,20 @@ Simple command-line tool to copy file contents to clipboard on Linux.
 
 ## Install
 
+### Arch
+
+[Aur package](https://aur.archlinux.org/packages/copycontent) 
+
+With yay
+```bash
+yay -S copycontent
+```
+With paru
+```bash 
+paru -S copycontent
+```
+
+### From Source
 ```bash
 git clone https://github.com/yourusername/cct
 cd cct
