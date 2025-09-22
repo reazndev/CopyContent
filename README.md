@@ -19,7 +19,7 @@ paru -S copycontent
 
 ### From Source
 ```bash
-git clone https://github.com/yourusername/cct
+git clone https://github.com/reazndev/CopyContent
 cd cct
 cargo build --release
 sudo cp target/release/cct /usr/local/bin/
